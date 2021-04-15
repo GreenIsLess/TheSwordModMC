@@ -5,4 +5,4 @@ Minecraft And Forge Or Fabric.
 ## Versions
 1.12.2, Use Forge. Over 1.12.2, Use Fabric.
 ## Notices
-MCreator FINNALY Built The Mod, Find The Mod [Here](https://github.com/GreenIsLess/TheSwordModMC/tree/Releases)
+MCreator FINNALY Built The Mod, Find The Mod [Here](https://github.com/GreenIsLess/TheSwordModMC/tree/Releases/Releases)
